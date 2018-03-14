@@ -1,6 +1,6 @@
 # Azure Storage - Upload File - Python
 
-**Upload File to Azure Blob Storage using SAS token / SAS url **
+**Upload File to Azure Blob Storage using SAS token / SAS url**
 
 Azure Blob Storage can be access using SAS ( shared access signatures) token. 
 
@@ -14,11 +14,9 @@ Receiving application uploads a file to blob storage using the sas token.
 
 Install following packages referenced in the code 
 
-`
+```
 pip install requests 
-pip install azure-storage-blob 
-`
+pip install azure-storage-blob
+```
 
 Use this code refer sample from main.py 
-
-
