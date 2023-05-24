@@ -1,5 +1,11 @@
 # Azure Storage - Upload File - Python
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 **Upload File to Azure Blob Storage using SAS token / SAS url**
 
 Azure Blob Storage can be access using SAS ( shared access signatures) token. 
@@ -20,3 +26,16 @@ pip install azure-storage-blob
 ```
 
 Refer code from `main.py` to know how to use this function.
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-url]: https://github.com/IncubXperts/image_thumbnail_csharp/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/IncubXperts/image_thumbnail_csharp.svg?style=for-the-badge
+[forks-url]: https://github.com/IncubXperts/image_thumbnail_csharp/network/members
+[stars-shield]: https://img.shields.io/github/stars/IncubXperts/image_thumbnail_csharp.svg?style=for-the-badge
+[stars-url]: https://github.com/IncubXperts/image_thumbnail_csharp/stargazers
+[issues-shield]: https://img.shields.io/github/issues/IncubXperts/image_thumbnail_csharp.svg?style=for-the-badge
+[issues-url]: https://github.com/IncubXperts/image_thumbnail_csharp/issues
+[license-shield]: https://img.shields.io/github/license/IncubXperts/image_thumbnail_csharp.svg?style=for-the-badge
+[license-url]: https://github.com/IncubXperts/image_thumbnail_csharp/blob/main/LICENSE
