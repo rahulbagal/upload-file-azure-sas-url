@@ -29,12 +29,12 @@ Refer code from `main.py` to know how to use this function.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-url]: https://github.com/IncubXperts/image_thumbnail_csharp/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/IncubXperts/image_thumbnail_csharp.svg?style=for-the-badge
-[forks-url]: https://github.com/IncubXperts/image_thumbnail_csharp/network/members
-[stars-shield]: https://img.shields.io/github/stars/IncubXperts/image_thumbnail_csharp.svg?style=for-the-badge
-[stars-url]: https://github.com/IncubXperts/image_thumbnail_csharp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/IncubXperts/image_thumbnail_csharp.svg?style=for-the-badge
-[issues-url]: https://github.com/IncubXperts/image_thumbnail_csharp/issues
-[license-shield]: https://img.shields.io/github/license/IncubXperts/image_thumbnail_csharp.svg?style=for-the-badge
-[license-url]: https://github.com/IncubXperts/image_thumbnail_csharp/blob/main/LICENSE
+
+[forks-shield]: https://img.shields.io/github/forks/rahulbagal/upload-file-azure-sas-url.svg?style=for-the-badge
+[forks-url]: https://github.com/rahulbagal/upload-file-azure-sas-url/network/members
+[stars-shield]: https://img.shields.io/github/stars/rahulbagal/upload-file-azure-sas-url.svg?style=for-the-badge
+[stars-url]: https://github.com/rahulbagal/upload-file-azure-sas-url/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rahulbagal/upload-file-azure-sas-url.svg?style=for-the-badge
+[issues-url]: https://github.com/rahulbagal/upload-file-azure-sas-url/issues
+[license-shield]: https://img.shields.io/github/license/rahulbagal/upload-file-azure-sas-url.svg?style=for-the-badge
+[license-url]: https://github.com/rahulbagal/upload-file-azure-sas-url/blob/main/LICENSE
